@@ -33,6 +33,7 @@ Superheroes is a code challenge mainly ment to test the skills on working with r
 
 ### Repo link
 
+https://github.com/Ruby-Supremes/Superheroes_ezra
 
 ### License
 
