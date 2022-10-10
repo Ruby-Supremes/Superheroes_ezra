@@ -4,7 +4,7 @@
  
 ### Description
 
-Superheroes is a code challenge mainly ment to test the skills on working with rails API
+Superheroes is a code challenge mainly meant to test the concept on working with rails API. I have built a new rails project for tracking heroes and their superpowers.
 
 ### Table of content
 
